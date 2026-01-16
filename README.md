@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00539B&height=220&section=header&text=Hello%20World&fontSize=70&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00539B&height=220&section=header&text=Welcome&fontSize=70&fontColor=ffffff" width="100%"/>
   
   # Hi there, I'm Yue Peng (彭悦) 👋
   
