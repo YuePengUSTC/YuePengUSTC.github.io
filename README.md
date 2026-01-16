@@ -3,7 +3,7 @@
   
   # Hi there, I'm Yue Peng (彭悦) 👋
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00539B&center=true&vCenter=true&width=500&lines=Post-training+Researcher+@+StepStar;Ph.D.+from+USTC+(GCL+Lab);LLM+Alignment+%26+Reasoning;Graphics+%26+Optimization)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00539B&center=true&vCenter=true&width=500&lines=Post-training+Researcher+@+StepFun;Ph.D.+from+USTC+(GCL+Lab);LLM+Alignment+%26+Reasoning;Graphics+%26+Optimization)](https://git.io/typing-svg)
 
   <a href="mailto:pengyue@stepfun.com">
     <img src="https://img.shields.io/badge/Email-Me-blue?style=flat-square&logo=gmail&logoColor=white" />
